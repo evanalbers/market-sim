@@ -1,6 +1,0 @@
-matplotlib==3.7.1
-matplotlib-base=3.7.1
-networkx==2.8.4
-numpy==1.23.5
-numpy.base==1.23.5
-scipy==1.10.1
