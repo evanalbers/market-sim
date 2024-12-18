@@ -1,13 +1,21 @@
 from thesimulator import *
-from maxe.build.TheSimulator.TheSimulator.portfolio import *
+from portfolio import *
 import numpy as np
 import time
 from random import randint
-from copy import copy
+from copy import copydon'tletsomeoneelseoutworkyou
+
 
 class SimpleCaseAgent:
 
+    def __init__(self):
+        """Constructor for SimpleCaseAgent"""
+        pass
+
     def configure(self, params):
+
+        print("running configure")
+
         self.cash = float(params['capital'])
         self.allocated_cash = 0
         self.exchange = str(params['exchange'])
@@ -428,3 +436,5 @@ class SimpleCaseAgent:
         ## will want to add more parts here about adding, subtracting from "watching," but this can come later 
 
 
+
+obj = SimpleCaseAgent()
