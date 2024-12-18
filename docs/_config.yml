@@ -30,9 +30,11 @@ twitter_username: jekyllrb
 github_username:  evan-albers
 
 # Build settings
+theme: just-the-docs
 remote_theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
