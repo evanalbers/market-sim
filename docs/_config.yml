@@ -33,7 +33,7 @@ github_username:  evan-albers
 # theme: just-the-docs
 remote_theme: just-the-docs
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
