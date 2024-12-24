@@ -3,7 +3,7 @@ from portfolio import *
 import numpy as np
 import time
 from random import randint
-from copy import copydon'tletsomeoneelseoutworkyou
+from copy import copy
 
 
 class SimpleCaseAgent:

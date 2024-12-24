@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Simulated Markets Project
+description: Documentation for the Simulated Markets Project 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/evanalbers/market-sim
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Simulated Markets on GitHub":
+    - "https://github.com/evanalbers/market-sim"
