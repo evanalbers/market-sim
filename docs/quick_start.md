@@ -40,3 +40,10 @@ If all goes well, some compiling should occur, error free.
 ## Running a Simulation
 
 The MAXe repository includes a handful of default agent types. These can be used to demonstrate the basic process of running a simulation. 
+
+This tutorial simulates a market in which there are two agents: a seller and a buyer. The seller "wakes up" at a pre-specified interval and sells a given number of shares at a predetermined price. The buyer is alerted when orders are placed, wakes up to buy the shares being sold. 
+
+ > Note: there is no concept of finite resources in this simulation. This must be implemented at the agent level. This simply demonstrates the transaction mechanism, and the process of building and running a simulation. 
+
+ 
+
