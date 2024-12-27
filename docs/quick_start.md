@@ -60,7 +60,7 @@ This tutorial simulates a market in which there are two agents: a seller and a b
 
  Agent characteristics are passed to the simulation via xml files. An example, used for running this particular simulation, can be found in `market-sim/simulations`
 
- ### Running the simulation
+### Running the simulation
  
 Running the simulation involves three steps:
 - Ensuring that agent files have been appropriately initialized. This involves navigating to directory `market-sim/maxe/build` and running ```cmake ../```. 
